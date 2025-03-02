@@ -15,8 +15,8 @@ Built using **PHP, MySQL, and custom CSS**, this project provides **secure authe
 ## 💻 Installation Guide
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/Freelance-Marketplace.git 
-'''
+git clone https://github.com/YOUR_USERNAME/Freelance-Marketplace.git   
+```
 
 2️⃣ Import freelance_marketplace.sql into phpMyAdmin
 3️⃣ Run XAMPP (Start Apache & MySQL)
