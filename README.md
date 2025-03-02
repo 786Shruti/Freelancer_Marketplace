@@ -19,7 +19,9 @@ git clone https://github.com/YOUR_USERNAME/Freelance-Marketplace.git
 ```
 
 2️⃣ Import freelance_marketplace.sql into phpMyAdmin
+
 3️⃣ Run XAMPP (Start Apache & MySQL)
+
 4️⃣ Open http://localhost/freelance_marketplace/ in your browser
 
 📜 License
